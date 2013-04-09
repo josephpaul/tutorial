@@ -1,3 +1,3 @@
 tutorial
 =======
-This is very basic php mysql examples for bigneers 
+This is very basic php mysql examples for begnners 
